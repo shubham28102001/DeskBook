@@ -1,7 +1,7 @@
-# Hot Desk Booking System
+# DeskBook
 
 ## Introduction
-**Hot Desk Booking System** is a website that allows booking a desk in the chosen location. Access to this system is possible only through the account. There are both **Employees** and **Administrators**, each with different permissions.
+**DeskBook** is an application that allows booking a desk in the chosen location. Access to this system is possible only through the account. There are both **Employees** and **Administrators**, each with different permissions.
 
 Sample credentials to log in and test the program:
 - User1 password1 (Employee)
